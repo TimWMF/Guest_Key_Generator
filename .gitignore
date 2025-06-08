@@ -5,3 +5,4 @@ __pycache__/
 logs/
 venv*/
 config/
+src/minimal_test_password_change.py
