@@ -71,12 +71,6 @@ You can run the password changer directly for testing:
 python src/Wifi_pwd_changer.py
 ```
 
-Or use the minimal test script:
-
-```bash
-python src/minimal_test_password_change.py
-```
-
 ## Security
 
 - **No secrets are stored in the codebase.** All sensitive information is loaded from environment variables.
